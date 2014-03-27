@@ -4,4 +4,5 @@
   <include file="$(find relationship_visualizer)/launch/relationship_visualizer.launch"></include>
   <include file="$(find openni_launch)/launch/openni.launch"></include>
   <include file="$(find checkerboard_detection)/launch/kinect_camerapose.launch" />
+  <include file="$(find model_rec2)/launch/model_rec2.launch" />
 </launch>
